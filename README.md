@@ -21,20 +21,20 @@ Thomas High School performance was enough to be in the Top 10 performing schools
 
 How does replacing the ninth-grade scores affect the following:
 * Math and reading scores by grade
-	Thomas High School math and reading score increased slightly but not that much. 
-	![alt text](https://github.com/sarifrey/School_District_Analysis/blob/main/Resources/MathReadingbyGrade.jpg)
+Thomas High School math and reading score increased slightly but not that much. 
+![alt text](https://github.com/sarifrey/School_District_Analysis/blob/main/Resources/MathReadingbyGrade.jpg)
 
 * Scores by school spending
-	I am not able to determine how replacing the ninth-grade scores affected school spending. The changes are non-existent or nominal.
-	![alt text](https://github.com/sarifrey/School_District_Analysis/blob/main/Resources/ScoresbySchoolSpending.jpg)
+I am not able to determine how replacing the ninth-grade scores affected school spending. The changes are non-existent or nominal.
+![alt text](https://github.com/sarifrey/School_District_Analysis/blob/main/Resources/ScoresbySchoolSpending.jpg)
 
 * Scores by school size
-	I am not able to determine how replacing the ninth-grade scores affected school spending. The changes are non-existent or nominal.
-	![alt text](https://github.com/sarifrey/School_District_Analysis/blob/main/Resources/scorebyschoolsize.jpg)
+I am not able to determine how replacing the ninth-grade scores affected school spending. The changes are non-existent or nominal.
+![alt text](https://github.com/sarifrey/School_District_Analysis/blob/main/Resources/scorebyschoolsize.jpg)
 
 * Scores by school type
-	I am not able to determine how replacing the ninth-grade scores affected school spending. The changes are non-existent or nominal.
-	![alt text](https://github.com/sarifrey/School_District_Analysis/blob/main/Resources/scoresbyschooltype.jpg)
+I am not able to determine how replacing the ninth-grade scores affected school spending. The changes are non-existent or nominal.
+![alt text](https://github.com/sarifrey/School_District_Analysis/blob/main/Resources/scoresbyschooltype.jpg)
 
 ## Summary
-There were changes in the Thomas High School averages when the ninth graders math and reading scores were removed. the other school scores did not change.
+There were changes in the Thomas High School averages when the ninth graders math and reading scores were removed. The other school scores did not change.
